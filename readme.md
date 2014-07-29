@@ -16,3 +16,10 @@ This is the code for a demo I created to login with Facebook using thier latest 
 ## Blog Post
 
 Coming soon...
+
+## Setup
+
+* Pull/fork this repo.
+* Change database config '/app/config/database.php'.
+* Serve Laravel (you can use LAMP/WAMP or cmd) and go to 'http://localhost'.
+* Follow instructions in blog post.
